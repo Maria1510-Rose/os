@@ -1,0 +1,5 @@
+{
+  "name": "SCAN Scheduling Visualizer",
+  "description": "An interactive simulator for the SCAN (Elevator) disk scheduling algorithm with real-time visualization and performance comparison.",
+  "requestFramePermissions": []
+}
